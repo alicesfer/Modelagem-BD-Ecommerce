@@ -32,3 +32,8 @@ Modelagem de banco de dados para um e-commerce com os requisitos:
 
 ## ✅ Solução Proposta
 [▶️ Clique para ver a modelagem completa]() | [📁 Arquivo SQL]()
+
+
+## 🛠️ Tecnologias Utilizadas
+- **MySQL Workbench** - Para diagramação do modelo relacional
+- **Git/GitHub** - Versionamento e documentação
